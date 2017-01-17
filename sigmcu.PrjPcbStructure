@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=main.SchDoc
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=CON-L-T|SchDesignator=CON-L-T|FileName=con-left-top.SchDoc|SymbolType=Normal|RawFileName=con-left-top.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=CON-R-T|SchDesignator=CON-R-T|FileName=con-right-top.SchDoc|SymbolType=Normal|RawFileName=con-right-top.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=MECH|SchDesignator=MECH|FileName=mechanical.SchDoc|SymbolType=Normal|RawFileName=mechanical.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
