@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YHMMQMWO
 
 [Document3]
-DocumentPath=sigjumper.PcbDoc
+DocumentPath=sigjumper-bottom.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
