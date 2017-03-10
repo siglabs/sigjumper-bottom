@@ -157,134 +157,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for sigmcu\Design Rule Check - sigjumper.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\Test Points\Fabrication Testpoint Report for sigjumper.csv
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\Test Points\Fabrication Testpoint Report for sigjumper.ipc
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=output\Pick Place\Pick Place for sigjumper.csv
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\NC Drill\sigjumper.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\NC Drill\sigjumper.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.G1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.G2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.G3
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.G4
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.G5
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.G6
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GP3
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GP4
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GP5
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GP6
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\NC Drill\sigjumper.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.REP
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\sigjumper.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\NC Drill\sigjumper.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -292,6 +164,7 @@ ConstraintFileCount=0
 ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
+GenerateBOM=1
 OutputJobsCount=0
 
 [Generic_EDE]
@@ -337,6 +210,96 @@ OutputName7=XSpice Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
+OutputType8=CadnetixNetlist
+OutputName8=Cadnetix Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=CalayNetlist
+OutputName9=Calay Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=EDIF
+OutputName10=EDIF for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=EESofNetlist
+OutputName11=EESof Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=IntergraphNetlist
+OutputName12=Intergraph Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=MentorBoardStationNetlist
+OutputName13=Mentor BoardStation Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=MultiWire
+OutputName14=MultiWire
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=OrCadPCB2Netlist
+OutputName15=Orcad/PCB2 Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Pcad
+OutputName16=Pcad for PCB
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=PCADnltNetlist
+OutputName17=PCADnlt Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=Protel2Netlist
+OutputName18=Protel2 Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=ProtelNetlist
+OutputName19=Protel
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=RacalNetlist
+OutputName20=Racal Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+OutputType21=RINFNetlist
+OutputName21=RINF Netlist
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+OutputType22=SciCardsNetlist
+OutputName22=SciCards Netlist
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=TangoNetlist
+OutputName23=Tango Netlist
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+OutputType24=TelesisNetlist
+OutputName24=Telesis Netlist
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+OutputType25=WireListNetlist
+OutputName25=WireList Netlist
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -472,8 +435,8 @@ OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
 PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=PCBDrawing
-OutputName19=Draftsman
+OutputType19=Logic Analyser Print
+OutputName19=Logic Analyser Prints
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
@@ -854,6 +817,11 @@ OutputName4=Export STEP
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
+OutputType5=NetList Sch
+OutputName5=NetList Sch
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
 
 [Modification Levels]
 Type1=1
